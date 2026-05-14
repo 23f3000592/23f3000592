@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 - 🎓 I'm a student in **Data Science** at **IIT Madras.**
-- 🐧 Passionate about **Linux** **(Arch, Kali, Ubuntu).**
+- 🐧 Passionate about **Linux** **(Arch, Kali, Ubuntu, Fedora, Omarchy, Bodhi, RedHat).**
 - 💻 Skilled in **Hardware Networking** and **Software Development.**
 - 🧠 Familiar with:  
   <p>
@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   </p>
 - 🎮 Hobbies: **Gaming**, **Video Editing.**
 <table>
@@ -32,11 +33,11 @@
     <td valign="top" width="80%">
 
 - 🔧 Tools I Use:
-  - 👨‍💻 Coding: `VS Code`, `Cursor`, `Trae`, `Antigravity`
+  - 👨‍💻 Coding: `VS Code`, `Cursor`, `Trae`, `Antigravity`, `Codex`, `NeoVim`, `Nano`
   - 🧪 Virtualization: `VMware`, `Oracle VirtualBox`
   - 🎥 Video Editing: `DaVinci Resolve`, `OBS Studio`
   - 📟 Terminals: `Kitty`, `Bash`, `Zsh`, `PowerShell`
-  - 🕹️ Gaming Platforms: `Roblox`, `BlueStacks`, `Steam`
+  - 🕹️ Gaming Platforms: `Roblox`, `BlueStacks`, `Steam`,`Epic Games`
 
 </td>
   <td valign="top" width="50%">
